@@ -1,1 +1,1 @@
-# CONFIG_SND_SPI is not set
+CONFIG_SND_SPI=y
